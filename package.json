@@ -1,0 +1,40 @@
+{
+  "name": "WeedMath",
+  "version": "1.0.0",
+  "description": "A simple app that calculates cash needed based on tax, price per gram, and discount percent",
+  "main": "index.html",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build styles.css main.js index.js pushless-index.js index.html send/index.html jointpains/index.html jointpains/send.html iggys/index.html iggys/send.html googlef4b0ed1af3809fcf.html firebase-messaging-sw.js --out-dir public",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@babel/runtime-corejs3": "7.8.4",
+    "a2hs.js": "0.4.5",
+    "firebase": "7.3.0",
+    "jquery": "3.4.1",
+    "parcel": "1.12.4",
+    "parcel-plugin-static-files-copy": "2.3.1",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "1.12.4"
+  },
+  "keywords": [],
+  "staticFiles": {
+    "staticPath": [
+      {
+        "outDirPattern": "**/public",
+        "staticPath": "staticPublic"
+      },
+      {
+        "staticOutDir": "static",
+        "staticPath": "static"
+      }
+    ]
+  },
+  "browserslist": ["last 3 Chrome versions"]
+}

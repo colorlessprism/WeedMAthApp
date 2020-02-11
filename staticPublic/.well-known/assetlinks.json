@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.weedmath.twa",
+      "sha256_cert_fingerprints": [
+        "87:30:CD:D3:2C:41:C6:DE:E7:45:42:95:D1:38:21:55:7F:AC:6F:5C:65:ED:7A:3B:A8:1F:48:A8:C3:66:6D:94"
+      ]
+    }
+  }
+]

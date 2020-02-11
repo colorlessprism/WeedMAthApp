@@ -1,2 +1,0 @@
-# WeedMathApp
-Created with CodeSandbox

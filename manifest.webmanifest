@@ -1,0 +1,110 @@
+{
+	"dir" : "ltr",
+	"lang" : "English",
+	"name" : "com.weedmath.app",
+	"gcm_sender_id": "823057714829",
+	"scope" : "/",
+	"display" : "fullscreen",
+	"start_url" : "./index.html",
+	"short_name" : "WeedMath",
+	"theme_color" : "#32CD32",
+	"background_color" : "#3CB371",
+	"description" : "Calculate cash needed based on tax, price per gram, and discount percent.",
+	"prefer_related_applications" : false,
+	"orientation" : "portrait",
+	"icons" : [
+		{
+			"src": "/static/44x44.png",
+			"sizes": "44x44"
+		},
+		{
+			"src": "/static/48x48.png",
+			"sizes": "48x48"
+		},
+		{
+			"src": "/static/1240x600.png",
+			"sizes": "1240x600"
+		},
+		{
+			"src": "/static/300x300.png",
+			"sizes": "300x300"
+		},
+		{
+			"src": "/static/150x150.png",
+			"sizes": "150x150"
+		},
+		{
+			"src": "/static/88x88.png",
+			"sizes": "88x88"
+		},
+		{
+			"src": "/static/24x24.png",
+			"sizes": "24x24"
+		},
+		{
+			"src": "/static/50x50.png",
+			"sizes": "50x50"
+		},
+		{
+			"src": "/static/620x300.png",
+			"sizes": "620x300"
+		},
+		{
+			"src": "/static/192x192.png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/static/144x144.png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "/static/96x96.png",
+			"sizes": "96x96"
+		},
+		{
+			"src": "/static/72x72.png",
+			"sizes": "72x72"
+		},
+		{
+			"src": "/static/36x36.png",
+			"sizes": "36x36"
+		},
+		{
+			"src": "/static/1024x1024.png",
+			"sizes": "1024x1024"
+		},
+		{
+			"src": "/static/180x180.png",
+			"sizes": "180x180"
+		},
+		{
+			"src": "/static/152x152.png",
+			"sizes": "152x152"
+		},
+		{
+			"src": "/static/120x120.png",
+			"sizes": "120x120"
+		},
+		{
+			"src": "/static/76x76.png",
+			"sizes": "76x76"
+		}],
+	"screenshots" : [
+		{
+			"src": "/static/WeedMath_cash.png",
+			"sizes": "404x747",
+			"type": "image/png"
+		},
+		{
+			"src": "/static/WeedMath_grams.png",
+			"sizes": "404x752",
+			"type": "image/png"
+		},
+		{
+			"src": "/static/WeedMath_feature.png",
+			"sizes": "1024x500",
+			"type": "image/png"
+		}
+	],
+	"generated" : "true"
+}
