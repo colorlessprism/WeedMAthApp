@@ -14,7 +14,7 @@
     "@babel/runtime-corejs3": "7.8.4",
     "a2hs.js": "0.4.5",
     "firebase": "7.3.0",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "parcel": "1.12.4",
     "parcel-plugin-static-files-copy": "2.3.1",
     "react": "16.12.0",
